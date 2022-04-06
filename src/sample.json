@@ -1,0 +1,16 @@
+{
+  "name":"hong",
+  "age":25,
+  "cars":[
+    {
+      "name":"k5",
+      "car_number":"11가 1111",
+      "TYPE":"sedan"
+    },
+    {
+      "name":"q5",
+      "car_number":"22가 2222",
+      "TYPE":"suv"
+    }
+  ]
+}
